@@ -1,0 +1,572 @@
+/* Extra small devices (portrait phones, less than 576px)*/
+@media(max-width:479px){
+    #banner_part{
+        padding: 40px 0px;
+    }
+    .banner_content h2 {
+        font-size: 23px;
+        padding-top: 52px;
+    }
+    .wrap_card{
+        width: 100%;
+    }
+    .banner_content p {
+        font-size: 17px;
+        padding: 0px 50px;
+    }
+    .banner_content a {
+        font-size: 15px;
+        padding: 10px 20px;
+    }
+    .navbar-nav{
+        text-align: center;
+        background: #44C0C2;
+    }
+    .navbar-light .navbar-nav .nav-link::after{
+        width: 7%;
+    }
+    .nav-link{
+        background: none;
+    }
+    .navbar-light .navbar-nav .nav-link{
+        color: #000;
+    }
+    .navbar-light .navbar-nav .nav-link:after {
+        background: #fff;
+    }
+    .navbar-light .navbar-nav .nav-link:hover{
+        color: #fff;
+    }
+    .navbar-light .navbar-nav .nav-link.active{
+        color: #fff;
+    }
+    .navbar-light .navbar-toggler {
+        color: rgba(0, 0, 0, .5);
+        outline: none;
+        background: #f2f6f6;
+    }
+
+    .btn-sadi {
+        font-size: 16px;
+        width: 115px;
+        height: 40px;
+    }
+    
+    .ex_wotk{
+      margin-top: 10%;  
+    }
+    #service_part {
+        padding: 65px 0px;
+    }
+    .portfolio_heading h2{
+        font-size: 35px;
+    }
+    .ex_portfolio{
+        margin-top: 6%;
+    }
+    .portfolio_bottom a {
+        font-size: 15px;
+        padding: 10px 20px;
+        margin-top: 11%;
+    }
+    #portfolio {
+        background: #F1F1F1;
+        padding: 50px 0px 50px 0px;
+    }
+    .team_heading h4 {
+        font-size: 35px;
+        padding-bottom: 65px;
+    }
+    #team_part {
+        padding: 55px 0px 63px 0px;
+    }
+    .blog_content h2{
+        font-size: 22px;
+    }
+    .blog_content p {
+        font-size: 12px;
+        padding: 0px 60px;
+    }
+    .ar_l{
+        top: 53%;
+        left: 7%;
+    }
+    .ar_r{
+        top: 53%;
+        right: 7%;
+    }
+    #blog_part {
+        padding: 68px 0px 42px 0px;
+    }
+    
+    
+    .contact_left{
+        text-align: center;
+        margin-top: 0px;
+    }
+    .contact_left h2{
+        font-size: 42px;
+    }
+    .from_right {
+        margin-left: 0px;
+    }
+    .ex_sadi1 {
+        width: 100%;
+    }
+    .contact_right h1{
+        padding-bottom: 50px;
+        text-align: center;
+    }
+    .btn-sadi{
+        float: none;
+    }
+    .sadi_ex_sm{
+        margin-top: 10%;
+    }
+    
+    
+}
+
+
+
+
+
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (min-width:480px) and (max-width:575.98px){
+    #banner_part{
+        padding: 40px 0px;
+    }
+    .banner_content h2 {
+        font-size: 23px;
+        padding-top: 52px;
+    }
+    .wrap_card{
+        width: 100%;
+    }
+    .banner_content p {
+        font-size: 17px;
+        padding: 0px 50px;
+    }
+    .banner_content a {
+        font-size: 15px;
+        padding: 10px 20px;
+    }
+    .navbar-nav{
+        text-align: center;
+        background: #44C0C2;
+    }
+    .navbar-light .navbar-nav .nav-link::after{
+        width: 7%;
+    }
+    .nav-link{
+        background: none;
+    }
+    .navbar-light .navbar-nav .nav-link{
+        color: #000;
+    }
+    .navbar-light .navbar-nav .nav-link:after {
+        background: #fff;
+    }
+    .navbar-light .navbar-nav .nav-link:hover{
+        color: #fff;
+    }
+    .navbar-light .navbar-nav .nav-link.active{
+        color: #fff;
+    }
+    .navbar-light .navbar-toggler {
+        color: rgba(0, 0, 0, .5);
+        outline: none;
+        background: #f2f6f6;
+    }
+
+    .btn-sadi {
+        font-size: 16px;
+        width: 115px;
+        height: 40px;
+    }
+    
+    .ex_wotk{
+      margin-top: 10%;  
+    }
+    #service_part {
+        padding: 65px 0px;
+    }
+    .portfolio_heading h2{
+        font-size: 35px;
+    }
+    .ex_portfolio{
+        margin-top: 6%;
+    }
+    .portfolio_bottom a {
+        font-size: 15px;
+        padding: 10px 20px;
+        margin-top: 11%;
+    }
+    #portfolio {
+        background: #F1F1F1;
+        padding: 50px 0px 50px 0px;
+    }
+    .team_heading h4 {
+        font-size: 35px;
+        padding-bottom: 65px;
+    }
+    #team_part {
+        padding: 55px 0px 63px 0px;
+    }
+    .blog_content h2{
+        font-size: 22px;
+    }
+    .blog_content p {
+        font-size: 12px;
+        padding: 0px 60px;
+    }
+    .ar_l{
+        top: 53%;
+        left: 7%;
+    }
+    .ar_r{
+        top: 53%;
+        right: 7%;
+    }
+    #blog_part {
+        padding: 68px 0px 42px 0px;
+    }
+    
+    
+    .contact_left{
+        text-align: center;
+        margin-top: 0px;
+    }
+    .contact_left h2{
+        font-size: 42px;
+    }
+    .from_right {
+        margin-left: 0px;
+    }
+    .ex_sadi1 {
+        width: 100%;
+    }
+    .contact_right h1{
+        padding-bottom: 50px;
+        text-align: center;
+    }
+    .btn-sadi{
+        float: none;
+    }
+    .sadi_ex_sm{
+        margin-top: 10%;
+    }
+    
+    
+}
+
+
+
+
+/* Small devices (landscape phones, 576px and up)*/
+@media(min-width:576px) and (max-width:767.98px){
+    #banner_part{
+        padding: 40px 0px;
+    }
+    .banner_content h2 {
+        font-size: 36px;
+        padding-top: 52px;
+    }
+    .banner_content p {
+        font-size: 17px;
+        padding: 0px 101px;
+    }
+    .banner_content a {
+        font-size: 15px;
+        padding: 10px 20px;
+    }
+    .navbar-nav{
+        text-align: center;
+        background: #44C0C2;
+    }
+    .navbar-light .navbar-nav .nav-link::after{
+        width: 7%;
+    }
+    .nav-link{
+        background: none;
+    }
+    .navbar-light .navbar-nav .nav-link{
+        color: #000;
+    }
+    .navbar-light .navbar-nav .nav-link:after {
+        background: #fff;
+    }
+    .navbar-light .navbar-nav .nav-link:hover{
+        color: #fff;
+    }
+    .navbar-light .navbar-nav .nav-link.active{
+        color: #fff;
+    }
+    .navbar-light .navbar-toggler {
+        color: rgba(0, 0, 0, .5);
+        outline: none;
+        background: #f2f6f6;
+    }
+    
+    .ex_wotk{
+      margin-top: 18%;  
+    }
+    #service_part {
+        padding: 65px 0px;
+    }
+    .portfolio_heading h2{
+        font-size: 35px;
+    }
+    .ex_portfolio{
+        margin-top: 5%;
+    }
+    .portfolio_bottom a {
+        font-size: 15px;
+        padding: 10px 20px;
+        margin-top: 22%;
+    }
+    #portfolio {
+        background: #F1F1F1;
+        padding: 50px 0px 50px 0px;
+    }
+    .team_heading h4 {
+        font-size: 35px;
+        padding-bottom: 65px;
+    }
+    #team_part {
+        padding: 55px 0px 63px 0px;
+    }
+    .blog_content h2{
+        font-size: 22px;
+    }
+    .blog_content p {
+        font-size: 12px;
+        padding: 0px 60px;
+    }
+    .ar_l{
+        top: 53%;
+        left: 6%;
+    }
+    .ar_r{
+        top: 53%;
+        right: 6%;
+    }
+    #blog_part {
+        padding: 68px 0px 42px 0px;
+    }
+    
+    
+    .contact_left{
+        text-align: center;
+        margin-top: 0px;
+    }
+    .contact_left h2{
+        font-size: 42px;
+    }
+    .from_right {
+        margin-left: 0px;
+    }
+    .ex_sadi1 {
+        width: 100%;
+    }
+    .contact_right h1{
+        padding-bottom: 50px;
+        text-align: center;
+    }
+    
+}
+
+
+
+/* Medium devices (tablets, 768px and up)*/
+@media(min-width:768px) and (max-width:991.98px){
+    #banner_part{
+        padding: 40px 0px;
+    }
+    .banner_content h2 {
+        font-size: 36px;
+        padding-top: 52px;
+    }
+    .banner_content p {
+        font-size: 17px;
+        padding: 0px 101px;
+    }
+    .banner_content a {
+        font-size: 15px;
+        padding: 10px 20px;
+    }
+    .navbar-nav{
+        text-align: center;
+        background: #44C0C2;
+    }
+    .navbar-light .navbar-nav .nav-link::after{
+        width: 7%;
+    }
+    .nav-link{
+        background: none;
+    }
+    .navbar-light .navbar-nav .nav-link{
+        color: #000;
+    }
+    .navbar-light .navbar-nav .nav-link:after {
+        background: #fff;
+    }
+    .navbar-light .navbar-nav .nav-link:hover{
+        color: #fff;
+    }
+    .navbar-light .navbar-nav .nav-link.active{
+        color: #fff;
+    }
+    .navbar-light .navbar-toggler {
+        color: rgba(0, 0, 0, .5);
+        outline: none;
+        background: #f2f6f6;
+    }
+    .sadi_top{
+        margin-top:20%;
+    }
+    #portfolio {
+        padding: 50px 0px 50px 0px;
+    }
+    .portfolio_bottom a {
+        font-size: 15px;
+        padding: 10px 20px;
+        margin-top: 10%;
+    }
+    .sadi_m {
+        margin-top: 24px;
+    }
+    .portfolio_heading h2{
+        font-size: 30px;
+        padding-bottom: 20px;
+    }
+    .team_heading h4 {
+        font-size: 30px;
+        padding-bottom: 50px;
+    }
+    #team_part {
+        padding: 40px 0px 50px 0px;
+    }
+    #pricing_part {
+        padding: 70px 0px 70px 0px;
+    }
+    #blog_part {
+        padding: 90px 0px 60px 0px;
+    }
+    .ar_l{
+        left: 78px;
+        top: 50%;
+    }
+    .ar_r{
+        right: 78px;
+        top: 50%;
+    }
+    .blog_content p{
+        padding: 0px 90px;
+        font-size: 17px;
+    }
+    .blog_content h2 {
+        font-size: 30px;
+        padding-bottom: 20px;
+    }
+    .blog_content h6{
+        margin-top: 5%;
+    }
+    .ex_sadi1 {
+        width: 100%;
+        height: auto;
+    }
+    .btn-sadi {
+        font-size: 15px;
+        width: 40%;
+        height: 35px;
+    }
+    .input_sadi {
+        width: 100%;
+        height: 30px;
+    }
+    .sadi_control::placeholder {
+        font-size: 14px;
+    }
+    #contact_part{
+        padding: 60px 0px;
+    }
+    .contact_right h1 {
+        font-size: 25px;
+        padding-bottom: 17px;
+    }
+    .contact_left {
+        margin-top: 7px;
+    }
+    
+    }
+
+
+
+
+/* Large devices (desktops, 992px and up)*/
+@media(min-width:992px) and (max-width:1199.98px){
+    .banner_content h2 {
+        font-size: 50px;
+    }
+    #banner_part{
+        padding: 130px 0px;
+    }
+    .banner_content p{
+        padding: 0px 135px;
+    }
+    .ar_l{
+        left: 85px;
+        top: 55%;
+    }
+    .ar_r{
+        top: 55%;
+        right: 85px;
+    }
+    .blog_content p {
+        padding: 0px 150px;
+    }
+    .ex_sadi1 {
+        width: 100%;
+    }
+    .portfolio_bottom a {
+        font-size: 21px;
+        padding: 12px 22px;
+    }
+    #portfolio {
+        padding: 30px 0px 55px 0px;
+    }
+    .portfolio_heading h2 {
+        font-size: 35px;
+        padding-bottom: 45px;
+    }
+    #team_part {
+        padding: 55px 0px 65px 0px;
+    }
+    .team_heading h4 {
+        font-size: 35px;
+        padding-bottom: 65px;
+    }
+    #blog_part {
+        padding: 95px 0px 55px 0px;
+    }
+    #service_part {
+        padding: 80px 0px;
+    }
+}
+
+
+
+
+/* Extra large devices (large desktops, 1200px and up)*/
+@media(min-width: 1200px){
+    
+    .banner_content p {
+        padding: 0px 202px;
+    }
+    .from_right {
+        margin-left: 24%;
+    }
+    
+    
+}
